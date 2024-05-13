@@ -7,4 +7,4 @@ Analyze Ecommerce sales data created are interacting dahsbourd using power BI
 • Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
 ## Sales Overview DASHBOARD
-
+![Data sorted by Amount](https://github.com/adhishbiju2000/Microsoft-PowerBI-MADHAV-ECOMMERCE-SALE-DASHBOARD/assets/156699315/9f3069a3-1fcf-4e50-bee3-2ea071ebf483)
