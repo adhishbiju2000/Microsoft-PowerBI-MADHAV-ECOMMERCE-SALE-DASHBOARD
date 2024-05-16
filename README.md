@@ -28,3 +28,13 @@ In which all the data has been overviewed and Analyse the Report based on the  A
 
 ![Data sorted by Amount](https://github.com/adhishbiju2000/Microsoft-PowerBI-MADHAV-ECOMMERCE-SALE-DASHBOARD/assets/156699315/9ce08209-1b47-47a8-bc9d-166de4d7959c)
 
+
+## Project Learnings
+- Identified key factors of Sales 
+- Improved the  Sales process
+- Identify the State Sales process
+- Improved  Customer experience
+- Identify highest sales done by each person by individual state and Overall all state
+- Made  more productive
+- Gained more Information Detail
+
